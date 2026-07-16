@@ -14,7 +14,10 @@ while (!mastered) {
 }
 ```
 
-> *Building logic, one commit at a time.*
+> Building logic, one commit at a time.
+
+```
+```
 
 ---
 
@@ -25,4 +28,4 @@ while (!mastered) {
 **Happy Coding! ☕**
 
 </div>
-````
+``
