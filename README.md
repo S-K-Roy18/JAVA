@@ -1,31 +1,24 @@
-````markdown
-# ☕ Java
+<div align="center">
 
-<p align="center">
-  <img src="[https://your-image-link.com/java-banner.png](https://www.infoworld.com/article/2238056/java-101-classes-and-objects-in-java.html)" alt="Java Banner" width="100%">
-</p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="120"/>
+
+# ☕ JAVA
 
 ```java
-while (!mastered) {
-    learn();
-    practice();
-    commit();
-    repeat();
+public class Journey {
+    public static void main(String[] args) {
+        while (!mastered) {
+            learn();
+            practice();
+            commit();
+            repeat();
+        }
+    }
 }
 ```
 
-> Building logic, one commit at a time.
+> *Code. Commit. Improve. Repeat.*
 
-```
-```
-
----
-
-<div align="center">
-
-### ⭐ Every commit is a step forward.
-
-**Happy Coding! ☕**
+⭐ **Learning Java one commit at a time.**
 
 </div>
-```
